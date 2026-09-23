@@ -1,2 +1,7 @@
-# spring-boot-2fa-totp
-Projeto de Estudos 2FA - TOTP
+# Projeto de Estudos 2FA - TOTP
+
+Google authenticator
+Microsoft authenticator
+
+_Feito sem IA_
+
